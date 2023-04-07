@@ -4,7 +4,8 @@
 
 My Latest Projects
 
-Languages and Tools
+### Languages and Tools
+
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![Node](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)
