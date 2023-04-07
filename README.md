@@ -12,7 +12,7 @@
 
 ### 👨‍💻 CV with my skills
 
-[Download CV](https://drive.google.com/file/d/1WNstKJ9nLR0lF-4DEzsLQYopMUVYkJPo/view)
+[Download CV](https://drive.google.com/file/d/1q9E_XCIzfnxEgQYMqzKroVscaTN9tm1D/view?usp=sharing)
 
 ### :school: Education
 
