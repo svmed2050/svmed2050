@@ -4,10 +4,10 @@
 
 ### My latest projects with Demo
 
-[3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)
-[ProShop MERN](https://github.com/svmed2050/MERN-proshop)
-[OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)
-[Unichat Application](https://github.com/svmed2050/react-messenger-chat)
+[3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)  
+[ProShop MERN](https://github.com/svmed2050/MERN-proshop)  
+[OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)  
+[Unichat Application](https://github.com/svmed2050/react-messenger-chat)  
 [Real Estate: Next.js](https://github.com/svmed2050/next-real-estate)
 
 ### CV with my skills
@@ -22,29 +22,24 @@ Oles Honchar Dnipro National University.
 Faculty of Mechanics and Mathematics.  
 Master of Mathematics.
 
-### Languages and Tools:
+### Main Languages and Tools:
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Node](https://img.shields.io/badge/-Node.js-blue?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5)
-![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
-
-### Website Layout
-
-![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
-![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
-![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Node](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-express.js-black?style=for-the-badge&logo=express)
+![Apollo](https://img.shields.io/badge/-Apollo-black?style=for-the-badge&logo=apollographql)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
 
 ### Socials:
 
-<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
-[![Telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7) -->
-
-![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
-![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
-![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
+[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=Telegram)](https://t.me/pavelsergienko7)
+[![Gmail](https://img.shields.io/badge/-Gmail-1E90FF?style=for-the-badge&logo=Gmail)](mailto:pavelsergienko7@gmail.com)
 
 ### Stats
 
