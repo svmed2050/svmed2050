@@ -1,4 +1,4 @@
-![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header2.png)
+![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header3.png)
 
 ## I'm a React Developer
 
