@@ -7,7 +7,7 @@
 - [3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)
 - [ProShop MERN](https://github.com/svmed2050/MERN-proshop)
 - [OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)
-- [Unichat Application](https://github.com/svmed2050/react-messenger-chat)
+- [DevSpace Blog](https://github.com/svmed2050/devSpaceBlog-Nextjs)
 - [Real Estate: Next.js](https://github.com/svmed2050/next-real-estate)
 
 ### CV with my skills
