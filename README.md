@@ -34,12 +34,15 @@ Master of Mathematics.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass)
+![MongoDB](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=MySQL)
 
 ### Socials:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1E90FF?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
-[![Telegram](https://img.shields.io/badge/-Telegram-1E90FF?style=for-the-badge&logo=Telegram)](https://t.me/pavelsergienko7)
-[![Gmail](https://img.shields.io/badge/-Gmail-1E90FF?style=for-the-badge&logo=Gmail)](mailto:pavelsergienko7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-483D8B?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
+[![Telegram](https://img.shields.io/badge/-Telegram-483D8B?style=for-the-badge&logo=Telegram)](https://t.me/pavelsergienko7)
+[![Gmail](https://img.shields.io/badge/-Gmail-483D8B?style=for-the-badge&logo=Gmail)](mailto:pavelsergienko7@gmail.com)
 
 ### Stats
 
