@@ -1,10 +1,28 @@
 ![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header1.png)
 
-## I'm Software Engineer
+## I'm a React Developer
 
-My Latest Projects
+### My latest projects with Demo
 
-### Languages and Tools
+[3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)
+[ProShop MERN](https://github.com/svmed2050/MERN-proshop)
+[OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)
+[Unichat Application](https://github.com/svmed2050/react-messenger-chat)
+[Real Estate: Next.js](https://github.com/svmed2050/next-real-estate)
+
+### CV with my skills
+
+[Download CV](https://drive.google.com/file/d/1WNstKJ9nLR0lF-4DEzsLQYopMUVYkJPo/view)
+
+### Education
+
+**Mathematical Degree (2007-2012)**
+
+Oles Honchar Dnipro National University.  
+Faculty of Mechanics and Mathematics.  
+Master of Mathematics.
+
+### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
@@ -12,11 +30,21 @@ My Latest Projects
 ![React](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=HTML5)
 ![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
 
-### Follow Me
+### Website Layout
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=social&logo=telegram)](http://youtube.com)
+![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
+![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
+![React](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](http://youtube.com)
+### Socials:
+
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
+[![Telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/pavelsergienko7) -->
+
+![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
+![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
+![React](https://img.shields.io/badge/-CSS3-blue?style=social&logo=CSS3)
 
 ### Stats
 
