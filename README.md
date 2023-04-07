@@ -1,22 +1,22 @@
-![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header1.png)
+![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header2.png)
 
 ## I'm a React Developer
 
 ### My latest projects with Demo
 
-[3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)  
-[ProShop MERN](https://github.com/svmed2050/MERN-proshop)  
-[OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)  
-[Unichat Application](https://github.com/svmed2050/react-messenger-chat)  
-[Real Estate: Next.js](https://github.com/svmed2050/next-real-estate)
+- [3D portfolio with React and Three.js](https://github.com/svmed2050/3d-portfolio-react)
+- [ProShop MERN](https://github.com/svmed2050/MERN-proshop)
+- [OpenAI: MidJourney clone](https://github.com/svmed2050/dalle-client-react)
+- [Unichat Application](https://github.com/svmed2050/react-messenger-chat)
+- [Real Estate: Next.js](https://github.com/svmed2050/next-real-estate)
 
 ### CV with my skills
 
-[Download CV](https://drive.google.com/file/d/1WNstKJ9nLR0lF-4DEzsLQYopMUVYkJPo/view)
+:arrow_forward: [Download CV](https://drive.google.com/file/d/1WNstKJ9nLR0lF-4DEzsLQYopMUVYkJPo/view)
 
 ### Education
 
-**Mathematical Degree (2007-2012)**
+:school: **Mathematical Degree (2007-2012)**
 
 Oles Honchar Dnipro National University.  
 Faculty of Mechanics and Mathematics.  
