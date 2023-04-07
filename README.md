@@ -1,4 +1,4 @@
-![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header.png)
+![Header](https://github.com/svmed2050/svmed2050/blob/main/assets/header1.png)
 
 ## I'm Software Engineer
 
