@@ -44,6 +44,10 @@ Master of Mathematics.
 [![Telegram](https://img.shields.io/badge/-Telegram-483D8B?style=for-the-badge&logo=Telegram)](https://t.me/pavelsergienko7)
 [![Gmail](https://img.shields.io/badge/-Gmail-483D8B?style=for-the-badge&logo=Gmail)](mailto:pavelsergienko7@gmail.com)
 
+### :crossed_swords: CodeWars
+
+![](https://www.codewars.com/users/pavelsergienko7/badges/large)
+
 ### ⚙️ GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=svmed2050&hide=issues,stars&show_icons=true&theme=dracula)
